@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.8409905
+color:
+  saturation: 0.7114695
+  lightness: 0.4390681
+  brandStrength: 0.6612903
+  brandColors:
+    - '#060000'
+    - '#FFFFFF'
+    - '#443120'
+    - '#83827E'
+    - '#B50C28'
+  rhythmicContrast: 0.752708
+name: PorscheTraveller
